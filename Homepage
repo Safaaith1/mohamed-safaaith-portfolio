@@ -1,6 +1,3 @@
-// ... (previous code remains same, adding a Share functionality at the bottom)
-// I will add a floating "Share Portfolio" button to the bottom left for the user to copy their link.
-
 import React, { useState, useEffect, useRef } from 'react';
 import { Mail, Linkedin, Phone, ChevronRight, Zap, Cpu, Code, BookOpen, Layers, Activity, Award, User, Send, Sparkles, MessageSquare, X, Users, ArrowRight, ExternalLink, Calendar, CheckCircle2, Share2, Check } from 'lucide-react';
 
